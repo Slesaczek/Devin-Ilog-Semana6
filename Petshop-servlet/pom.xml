@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.devinhouse</groupId>
-    <artifactId>m01s06-servlet</artifactId>
+    <artifactId>Petshop-servlet</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>m01s06-servlet</name>
+    <name>Petshop-servlet</name>
     <packaging>war</packaging>
 
     <properties>
